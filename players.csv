@@ -1,0 +1,43 @@
+﻿player_id,team_id,team_name,name,jersey_number,position,nationality,age,height_cm,foot,market_value_eur
+101,1,Flamengo,Agustín Rossi,1,Arquero,Argentina,30,193,Derecho,7000000
+102,1,Flamengo,Andrew,25,Arquero,Brasil,24,189,Derecho,2500000
+103,1,Flamengo,Léo Pereira,4,Defensa Central,Brasil,29,189,Izquierdo,6500000
+104,1,Flamengo,Léo Ortiz,3,Defensa Central,Brasil,29,185,Derecho,9000000
+105,1,Flamengo,Danilo,23,Defensa Central,Brasil,34,184,Derecho,4000000
+106,1,Flamengo,Vitão,13,Defensa Central,Brasil,25,186,Derecho,8000000
+107,1,Flamengo,Alex Sandro,26,Lateral Izquierdo,Brasil,34,180,Izquierdo,2000000
+108,1,Flamengo,Ayrton Lucas,6,Lateral Izquierdo,Brasil,28,180,Izquierdo,8500000
+109,1,Flamengo,Guillermo Varela,2,Lateral Derecho,Uruguay,32,173,Derecho,2500000
+110,1,Flamengo,Emerson Royal,12,Lateral Derecho,Brasil,26,183,Derecho,14000000
+111,1,Flamengo,Erick Pulgar,5,Mediocampista Defensivo,Chile,31,187,Derecho,5000000
+112,1,Flamengo,Nicolás de la Cruz,18,Mediocampista Central,Uruguay,28,167,Derecho,18000000
+113,1,Flamengo,Giorgian de Arrascaeta,14,Mediocampista Ofensivo,Uruguay,31,173,Derecho,15000000
+114,1,Flamengo,Lucas Paquetá,20,Mediocampista Ofensivo,Brasil,28,180,Izquierdo,35000000
+115,1,Flamengo,Jorge Carrascal,8,Mediocampista Ofensivo,Colombia,27,178,Derecho,8000000
+116,1,Flamengo,Saúl Ñíguez,17,Mediocampista Central,España,31,184,Izquierdo,6000000
+117,1,Flamengo,Evertton Araújo,52,Mediocampista Defensivo,Brasil,22,182,Derecho,4500000
+118,1,Flamengo,Pedro,9,Delantero Centro,Brasil,28,185,Derecho,22000000
+119,1,Flamengo,Bruno Henrique,27,Extremo Izquierdo,Brasil,34,184,Derecho,2500000
+120,1,Flamengo,Gonzalo Plata,19,Extremo Derecho,Ecuador,25,178,Izquierdo,7500000
+121,1,Flamengo,Luiz Araújo,7,Extremo Derecho,Brasil,29,175,Izquierdo,7000000
+122,1,Flamengo,Samuel Lino,11,Extremo Izquierdo,Brasil,25,178,Derecho,25000000
+201,2,Palmeiras,Weverton,21,Arquero,Brasil,37,189,Derecho,2000000
+202,2,Palmeiras,Carlos Miguel,1,Arquero,Brasil,27,204,Derecho,6000000
+203,2,Palmeiras,Marcelo Lomba,14,Arquero,Brasil,38,189,Derecho,300000
+204,2,Palmeiras,Gustavo Gómez,15,Defensa Central,Paraguay,32,185,Derecho,8500000
+205,2,Palmeiras,Murilo,26,Defensa Central,Brasil,28,188,Derecho,9000000
+206,2,Palmeiras,Bruno Fuchs,3,Defensa Central,Brasil,26,184,Derecho,4500000
+207,2,Palmeiras,Joaquín Piquerez,22,Lateral Izquierdo,Uruguay,27,184,Izquierdo,12000000
+208,2,Palmeiras,Jefté,6,Lateral Izquierdo,Brasil,21,180,Izquierdo,4000000
+209,2,Palmeiras,Agustín Giay,4,Lateral Derecho,Argentina,21,180,Derecho,8000000
+210,2,Palmeiras,Khellven,2,Lateral Derecho,Brasil,24,176,Derecho,6500000
+211,2,Palmeiras,Aníbal Moreno,5,Mediocampista Defensivo,Argentina,26,178,Derecho,12000000
+212,2,Palmeiras,Andreas Pereira,18,Mediocampista Central,Brasil,29,178,Derecho,20000000
+213,2,Palmeiras,Lucas Evangelista,8,Mediocampista Central,Brasil,30,181,Izquierdo,4500000
+214,2,Palmeiras,Maurício,17,Mediocampista Ofensivo,Brasil,24,174,Izquierdo,14000000
+215,2,Palmeiras,Richard Ríos,27,Mediocampista Central,Colombia,25,185,Derecho,15000000
+216,2,Palmeiras,Raphael Veiga,23,Mediocampista Ofensivo,Brasil,30,178,Izquierdo,13000000
+217,2,Palmeiras,Felipe Anderson,9,Extremo Derecho,Brasil,32,175,Derecho,7000000
+218,2,Palmeiras,Facundo Torres,11,Extremo Izquierdo,Uruguay,25,175,Izquierdo,14000000
+219,2,Palmeiras,Vitor Roque,19,Delantero Centro,Brasil,20,172,Derecho,30000000
+220,2,Palmeiras,José Manuel López (Flaco),42,Delantero Centro,Argentina,24,190,Izquierdo,10000000
